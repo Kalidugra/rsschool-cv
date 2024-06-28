@@ -5,3 +5,5 @@
 * Telegram: [@kalidugra](https://t.me/kalidugra);
 * GitHub: [Kalidugra](https://github.com/Kalidugra)
 * Location: Moscow, Russia.
+## About me
+I want to become a Frontend-developer. The field of work I am currently is doesn't suit me. Therefore, I was pleased with the decision to take a training course and change my job to one that was more interesting to me.
