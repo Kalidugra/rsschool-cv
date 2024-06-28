@@ -11,3 +11,9 @@ I want to become a Frontend-developer. The field of work I am currently is doesn
 * Git(basic), GitHub;
 * HTML;
 * CSS.  
+## Code Example
+```javascript
+function multiply(a, b){
+  return a * b
+};
+```
