@@ -17,3 +17,6 @@ function multiply(a, b){
   return a * b
 };
 ```
+## Education
+* **University:** Moscow State University of Medicine and Dentistry;
+* **Courses:** The Rolling Scopes School(in progress). 
