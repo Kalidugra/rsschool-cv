@@ -1,1 +1,1 @@
-https://kalidugra.github.io/rsschool-cv/cv
+https://kalidugra.github.io/rsschool-cv/
