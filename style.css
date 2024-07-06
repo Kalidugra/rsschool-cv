@@ -1,0 +1,171 @@
+@font-face {
+    font-family: Poppins;
+    src: url("fonts/Poppins-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url("fonts/Poppins-Regular.ttf");
+    font-weight: 700;
+}
+
+* {
+    box-sizing: border-box;
+}
+body 
+  {
+    background-color: #fcf9fc;
+    font-family: Poppons, sans-serif;
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    margin: auto;
+    max-width: 1300px;
+    background-color: #f5def4;
+    font-size: 18px;
+    box-shadow: 50px 50px 50px -1px rgba(0, 0, 0, 0.28);
+  }
+html {
+    scroll-behavior: smooth;
+  }
+
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0 0 50px;
+    margin: 0 0 30px 0;
+    background-color: #E0fbcb;
+}
+
+.nav-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+.nav-item {
+    margin-right: 45px;
+    margin-top: 10;
+}
+.nav-item a {
+    font-size: 24px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #000000;
+ }
+.nav-item a:hover {
+    font-weight: 600;
+}
+
+.main-content {
+    display: flex;
+   }
+
+.content-left {
+    width: 40%;
+   }
+
+.profile {
+    display: flex; 
+    align-items: center;
+}   
+.profile img {
+    border: 5px solid #ffffff;
+    margin-top: 10px;
+    margin-left: 15px;
+ }
+
+.profile h1 {
+  font-size: 2em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  color: #000000;
+  margin-left: 15px;
+ }
+
+h2 {
+  font-size: 1.5em;
+  margin: 30px 20px;
+  width: 140px;
+  letter-spacing: 1px;
+  display: inline-block;
+ }
+
+.contact-information-item {
+    margin-bottom: 10px;
+    list-style: none;
+  }
+.contact-information-item img {
+    margin-right: 15px;
+  }
+.contact-information-item a {
+    text-decoration: none;
+    color: #000000;
+  }
+.contact-information-item a:hover {
+    font-weight: 600;
+}
+.content-right {
+    width: 60%;
+    text-align:left;
+  }
+
+.Skills-item {
+    list-style: none;    
+}
+pre {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    margin-left: -270px;
+  }
+
+.About {
+    line-height: 1.6;
+}
+.Education-item {
+    margin-bottom: 10px;
+}
+.Languages-item {
+    margin-bottom: 10px;      
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    background-color: #BCBEB1 ;
+    font-size: 20px;
+    height: 80px;
+  }
+
+.footer a {
+    text-decoration: none;
+  }  
+
+.Git {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+.Git img {
+    margin-right: 10px;
+  }
+
+.Git  p {
+    color: #000000;
+    text-decoration: none;
+  }
+.Git p:hover {
+    font-weight: 600;    
+}
+
